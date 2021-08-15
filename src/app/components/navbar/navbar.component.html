@@ -1,0 +1,44 @@
+<header class="nav-header">
+  <nav class="nav-body-web">
+    <div class="logo fade-enter-done" tabindex="-1">
+      <a href="/" aria-label="home">
+      <img src="././assets/icons/logo.png"></a>
+    </div>
+    <div class="nav-list" id="nav-list">
+      <ol>
+        <li>
+          <a (click)="scrollTo('about-me')"> About </a>
+        </li>
+        <li>
+          <a (click)="scrollTo('contact')"> Contact </a>
+        </li>
+      </ol>
+      <div>
+        <a
+          class="resume-button"
+          href="././assets/resume/resume.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          >Resume</a
+        >
+      </div>
+    </div>
+  </nav>
+
+  <div class="sidebar-wrapper">
+    <button class="hamburger" id="hamburger">
+      <fa-icon [icon]="faBars"></fa-icon>
+    </button>
+    <div class="sidebar" id="sidebar">
+      <aside aria-hidden="false" tabindex="1" class="sidebar-menu">
+        <nav>
+          <ol>
+            <li><a (click)="closeSideBar()" href="/#about-me">About</a></li>
+            <li><a (click)="closeSideBar()" href="/#contact">Contact</a></li>
+          </ol>
+          <a href="././assets/resume/resume.pdf" target="_blank" class="resume-link">Resume</a>
+        </nav>
+      </aside>
+    </div>
+  </div>
+</header>

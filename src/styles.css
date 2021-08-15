@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "HarmoniaSans";
+    src: url(./assets/fonts/HarmoniaSansProCyr-Regular.ttf);
+}
+@font-face {
+    font-family: "Halvar";
+    src: url(./assets/fonts/HalvarMittel-Bd.ttf);
+}
+@font-face {
+    font-family: "Mono";
+    src: url(./assets/fonts/SFMonoLight.otf);
+}
+@font-face {
+    font-family: "Sans";
+    src: url(./assets/fonts/OpenSans-Bold.ttf);
+}
+@font-face {
+    font-family: "SansRegular";
+    src: url(./assets/fonts/OpenSans-Regular.ttf);
+}
+.no-scroll{
+    position: fixed;
+}
+body::-webkit-scrollbar-thumb {
+    background-color: #495670;
+    border: 3px solid #0a192f;
+    border-radius: 10px;
+}
+body::-webkit-scrollbar-track {
+    background: #0a192f;
+}
+::selection {
+    background-color: #233554;
+    color: #a8b2d1;
+}
+body::-webkit-scrollbar {
+    width: 12px;
+}
