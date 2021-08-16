@@ -7,9 +7,18 @@
 
 <div align="center" style="margin-bottom:20px">
 
-<span></span>https://berkayersoy.netlify.app built with [Angular](https://angular.io/)
+<span></span>https://berkayersoy.netlify.app built with [Angular](https://angular.io/) deployed to [Netlify](https://www.netlify.com/)
 </div>
 
+<br/>
+
+<div align="center">
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/92321acb-972e-49de-82e7-130c88b341e2/deploy-status)](https://app.netlify.com/sites/berkayersoy/deploys)
+
+</p>
+
+<br/>
 
 <p align="center"><img src="src/assets/photos/website.jpg" /></p>
 
