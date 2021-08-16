@@ -4,7 +4,15 @@
 
 
 <div align="center" style="margin-bottom:20px">
+
 <span></span>berkayersoy.com built with [Angular](https://angular.io/)
 </div>
 
 <p align="center"><img src="src/assets/photos/website.jpg" /></p>
+
+</br></br>
+
+# 🚀 Building and Running for Production
+
+1. Generate a full static production build
+> We're living the future so
