@@ -7,4 +7,4 @@
 <span></span>berkayersoy.com built with [Angular](https://angular.io/)
 </div>
 
-<p align="center"><img src="src/assets/photos/websitess.jpg" /></p>
+<p align="center"><img src="src/assets/photos/website.jpg" /></p>
