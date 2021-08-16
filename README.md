@@ -14,5 +14,13 @@
 
 # 🚀 Building and Running for Production
 
-1. Generate a full static production build </br>
-    `asfasfsa`
+1. Generate a full static production build  </br>
+
+    ```
+    npm run build
+    ```
+2. Preview the site as it will appear once deployed </br>
+
+    ```
+    npm run serve
+    ```
