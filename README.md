@@ -7,7 +7,7 @@
 
 <div align="center" style="margin-bottom:20px">
 
-<span></span>https://berkayersoy.netlify.app/ built with [Angular](https://angular.io/)
+<span></span>https://berkayersoy.netlify.app built with [Angular](https://angular.io/)
 </div>
 
 
